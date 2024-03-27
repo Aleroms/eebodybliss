@@ -1,0 +1,128 @@
+[
+  {
+    "image": "/images/body-sculpting.png",
+    "title": "Body Sculpting",
+    "content": "Our body sculpting treatments utilize specialized wood therapy techniques to contour and shape your body, helping you achieve the silhouette you desire.",
+    "alt": "body sculpting",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Experience improved body definition, reduced fat deposits, and enhanced self-confidence as you sculpt your way to a more contoured physique.",
+    "session": "1 session $110, 6 session packet $645"
+  },
+  {
+    "image": "/images/massage-therapy.jpg",
+    "title": "Relax Massage",
+    "content": "Indulge in the healing touch of our expert therapists as they release tension, improve circulation, and enhance relaxation through a variety of massage techniques tailored to your needs.",
+    "alt": "massage therapy",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Reduced stress, improved circulation, and relief from tension and muscle pain, leaving you relaxed and rejuvenated.",
+    "price": 150,
+    "session": ""
+  },
+  {
+    "image": "/images/thai-reflexology.jpg",
+    "title": "Thai Reflexology",
+    "content": "Thai reflexology is based on the idea that each part of the body is connected through the nerves of the hands and feet. It works on the most important reflex points and uses special oils and anatomically designed wooden instruments that help relax and activate certain therapeutic points. These specific areas and points correspond to different organs and systems of the body that, once the pressure is exerted, stimulate and trigger a response in the corresponding area of the body.",
+    "alt": "Thai reflexology",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Improves circulation and elimination of toxins, reduces stiffness and improves reflectivity, strengthens the immune system, reduces stress by inducing a state of deep relaxation, accelerates physical healing.",
+    "price": 150,
+    "session": ""
+  },
+  {
+    "image": "/images/arm-reduction.jpg",
+    "title": "Arm Reduction",
+    "content": "Our arm reduction sessions target specific areas to reduce excess fat and promote toning, leaving you with firmer, more slender arms.",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Enjoy slimmer, toned arms and increased confidence with reduced flabbiness and enhanced muscle definition.",
+    "price": 80,
+    "session": ""
+  },
+  {
+    "image": "/images/double-chin.jpg",
+    "title": "Double Chin Reduction",
+    "content": "Say goodbye to unwanted double chin with our double chin reduction treatments, designed to tighten and tone the area for a more defined jawline.",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Achieve a more youthful appearance and improved jawline definition, boosting your self-esteem and overall facial harmony.",
+    "price": 80,
+    "session": ""
+  },
+
+  {
+    "image": "/images/cellulite.jpg",
+    "title": "Cellulite Treatment",
+    "content": "Our cellulite treatments target cellulite's appearance, promoting smoother, firmer skin and increased body confidence.",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Experience improved skin texture, reduced cellulite, and increased confidence in your appearance with our effective cellulite treatments.",
+    "price": 100,
+    "session": ""
+  },
+  {
+    "image": "/images/butt-lifting.jpg",
+    "title": "Butt Lifting",
+    "content": "Transform and lift your buttocks with our specialized wood therapy techniques, enhancing shape and contour for a more lifted appearance.",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Enjoy a lifted, shapelier buttocks, improved confidence, and enhanced overall lower body aesthetics with our butt lifting treatments.",
+    "price": 100,
+    "session": ""
+  },
+  {
+    "image": "/images/facial-cupping.jpg",
+    "title": "Cupping Facial",
+    "content": "Reveal your skin's natural radiance with our cupping facial treatments, which improve blood flow, reduce puffiness, and promote a youthful complexion.",
+    "alt": "cupping facial",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Enjoy smoother, more youthful skin with reduced puffiness, improved blood flow, and a rejuvenated complexion.",
+    "price": 120,
+    "session": ""
+  },
+  {
+    "image": "/images/lymphatic-draining.jpg",
+    "title": "Post Surgery Lymphatic Draining",
+    "content": "Our lymphatic draining sessions promote healthy circulation, reduce inflammation, and enhance your body's natural detoxification processes, supporting overall wellness. Itis recommended to start two weeks after surgery. This has the effect of treating fluid retention by reducing inflammation and fostering recovery after surgeries.",
+    "alt": "lymphatic draining",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Reap the rewards of enhanced circulation, reduced inflammation, and effective detoxification, fostering overall health and vitality.",
+    "price": 110,
+    "session": ""
+  },
+  {
+    "image": "/images/body-wraps.jpg",
+    "title": "Body Wraps",
+    "content": "Experience the ultimate detoxification and skin rejuvenation with our nourishing body wraps, designed to leave you feeling refreshed and revitalized.",
+    "alt": "body wraps",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Experience detoxification, improved skin tone, and enhanced relaxation, nurturing your skin and promoting a sense of well-being.",
+    "session": "1 session $50"
+  },
+  {
+    "image": "/images/test.jpg",
+    "title": "Sports Wood Therapy",
+    "content": "Our sports wood therapy sessions are designed to support athletes and fitness enthusiasts in reducing muscle tension, promoting recovery, and optimizing performance.",
+    "showButton": false,
+    "link": "",
+    "message": "",
+    "benefit": "Enhance your athletic performance, reduce muscle soreness, and accelerate recovery, enabling you to excel in your sports and fitness endeavors.",
+    "price": 150,
+    "session": ""
+  }
+]
