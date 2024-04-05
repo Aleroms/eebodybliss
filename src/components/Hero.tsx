@@ -11,6 +11,12 @@ function Hero() {
             relaxation, rejuvenation, balance
           </div>
           <p className="mt-0 mb-4 text-700 line-height-3">
+            Body sculpture, or body contouring, is a noninvasive way to target
+            and reduce stubborn body fat, tone and sculpt your body along with
+            restoring firmness, and reduce cellulite. With no downtime and is a
+            great alternative to surgery.
+          </p>
+          <p className="mt-0 mb-4 text-700 line-height-3">
             Through expertly crafted techniques, tailored sessions, and a deep
             passion for holistic healing, we aim to bring you relaxation,
             rejuvenation, and a profound sense of balance. Join us, and

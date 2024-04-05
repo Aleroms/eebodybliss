@@ -11,6 +11,7 @@ import Services from "./components/Services";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import TimelineComponent from "./components/Timeline";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <TimelineComponent />
       <Services />
       <Gallery />
       <Contact />

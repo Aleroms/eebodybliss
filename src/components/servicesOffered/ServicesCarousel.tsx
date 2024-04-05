@@ -7,32 +7,48 @@ interface Service {
   image: string;
 }
 
-function ServiceCarousel() {
+function ServiceCarousel({service}) {
   const services = [
     {
-      name: "s1",
+      name: "Body Sculpting 1 area",
       image: "service.png",
     },
     {
-      name: "s2",
+      name: "3 body sculpting session package",
       image: "service.png",
     },
     {
-      name: "s3",
+      name: "6 body sculpting session package",
       image: "service.png",
     },
     {
-      name: "s4",
+      name: "8 body sculpting session package",
       image: "service.png",
     },
     {
-      name: "s5",
+      name: "10 body sculpting session package",
       image: "service.png",
     },
     {
-      name: "s6",
+      name: "Non-Invasive BBL single session",
       image: "service.png",
     },
+    {
+      name: "Non-Invasive BBL 3 sessions",
+      image: "service.png",
+    },
+    {
+      name: "Non-Invasive BBL 6 sessions",
+      image: "service.png",
+    },
+    {
+      name: "Non-Invasive BBL 8 sessions",
+      image: "service.png",
+    },
+    {
+      name: "Wood therapy add on",
+      image: "service.png"
+    }
   ];
   const responsiveOptions = [
     {
@@ -80,7 +96,7 @@ function ServiceCarousel() {
   return (
     <div className="card">
       <Carousel
-        value={services}
+        value={service}
         numVisible={3}
         numScroll={3}
         responsiveOptions={responsiveOptions}
