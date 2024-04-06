@@ -1,4 +1,3 @@
-
 function Contact() {
   return (
     <div className="text-center">
@@ -31,7 +30,7 @@ function Contact() {
             <i className="pi pi-phone text-4xl text-blue-500"></i>
           </span>
           <div className="text-900 text-xl mb-3 font-medium">Contact</div>
-          <span className="text-700 line-height-3">(xxx) xxx-xxxx</span>
+          <span className="text-700 line-height-3">(951) 258-5080</span>
         </div>
         <div className="col-12 md:col-4 mb-4 px-5">
           <span
@@ -53,7 +52,6 @@ function Contact() {
             @e_e_body_bliss
           </span>
         </div>
-
       </div>
     </div>
   );
