@@ -11,10 +11,10 @@ function Hero() {
             relaxation, rejuvenation, balance
           </div>
           <p className="mt-0 mb-4 text-700 line-height-3">
-            Body sculpture, or body contouring, is a noninvasive technique to target
-            and reduce stubborn body fat, tone and sculpt your body along with
-            restoring firmness, and reduce cellulite. With no downtime and is a
-            great alternative to surgery with no downtime.
+            Body sculpture, or body contouring, is a noninvasive technique to
+            target and reduce stubborn body fat, tone and sculpt your body along
+            with restoring firmness, and reduce cellulite. With no downtime and
+            is a great alternative to surgery with no downtime.
           </p>
           <p className="mt-0 mb-4 text-700 line-height-3">
             Wood Therapy is 100% natural technique to sculpt the body using
@@ -28,7 +28,7 @@ function Hero() {
             together, let's unlock the harmony within you.
           </p>
 
-          {/* <Button label="Services" type="button" className="p-button-raised" /> */}
+          <Button label="Services" type="button" className="p-button-raised" />
         </section>
       </div>
       <div className="col-12 md:col-6 overflow-hidden">

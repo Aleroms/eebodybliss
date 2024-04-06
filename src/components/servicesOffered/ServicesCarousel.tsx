@@ -7,49 +7,49 @@ interface Service {
   image: string;
 }
 
-function ServiceCarousel({service}) {
-  const services = [
-    {
-      name: "Body Sculpting 1 area",
-      image: "service.png",
-    },
-    {
-      name: "3 body sculpting session package",
-      image: "service.png",
-    },
-    {
-      name: "6 body sculpting session package",
-      image: "service.png",
-    },
-    {
-      name: "8 body sculpting session package",
-      image: "service.png",
-    },
-    {
-      name: "10 body sculpting session package",
-      image: "service.png",
-    },
-    {
-      name: "Non-Invasive BBL single session",
-      image: "service.png",
-    },
-    {
-      name: "Non-Invasive BBL 3 sessions",
-      image: "service.png",
-    },
-    {
-      name: "Non-Invasive BBL 6 sessions",
-      image: "service.png",
-    },
-    {
-      name: "Non-Invasive BBL 8 sessions",
-      image: "service.png",
-    },
-    {
-      name: "Wood therapy add on",
-      image: "service.png"
-    }
-  ];
+function ServiceCarousel(service: Array<object>) {
+  // const services = [
+  //   {
+  //     name: "Body Sculpting 1 area",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "3 body sculpting session package",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "6 body sculpting session package",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "8 body sculpting session package",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "10 body sculpting session package",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "Non-Invasive BBL single session",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "Non-Invasive BBL 3 sessions",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "Non-Invasive BBL 6 sessions",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "Non-Invasive BBL 8 sessions",
+  //     image: "service.png",
+  //   },
+  //   {
+  //     name: "Wood therapy add on",
+  //     image: "service.png"
+  //   }
+  // ];
   const responsiveOptions = [
     {
       breakpoint: "1400px",
