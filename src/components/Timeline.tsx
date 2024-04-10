@@ -25,6 +25,8 @@ function TimelineComponent() {
       </div>
       <Timeline
         value={events}
+        className="m-auto"
+        style={{ maxWidth: "700px" }}
         opposite={(item) => item.status}
         content={(item) => (
           <small className="text-color-secondary">{item.content}</small>

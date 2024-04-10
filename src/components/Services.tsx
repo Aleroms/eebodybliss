@@ -17,7 +17,7 @@ function Services() {
       <ServiceCarousel service={service_woodtherapy} /> */}
       <div className="flex flex-column md:flex-row gap-5 align-items-center">
         <Image src="/prices.jpeg" alt="prices" preview width="275" />
-        <div className="">
+        <div style={{ maxWidth: "1100px" }}>
           <div className="mb-3 font-bold text-3xl">
             <span className="text-900">Our </span>
             <span className="text-primary">Service Area</span>

@@ -7,7 +7,10 @@ function About() {
         <span className="text-900">About </span>
         <span className="text-primary">E & E Body Bliss</span>
       </div>
-      <div className="text-700 mb-6">
+      <div
+        className="text-700 mb-6 text-center m-auto line-height-3"
+        style={{ maxWidth: "700px" }}
+      >
         At E&E Body Bliss, our mission is to guide you on a journey of
         self-discovery and well-being through the transformative power of wood
         therapy and massage. We proudly serve Federal Way, Washington and the
